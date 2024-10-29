@@ -1,0 +1,26 @@
+.credit-card-radio input[type="radio"] {
+  display: none;
+}
+
+.radio-mark {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 1px solid #3362ab;
+  position: relative;
+  cursor: pointer;
+}
+
+.credit-card-radio input[type="radio"]:checked + .radio-mark::after {
+  content: "";
+  display: block;
+  width: 10px;
+  height: 10px;
+  background-color: #3362ab;
+  border-radius: 50%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
