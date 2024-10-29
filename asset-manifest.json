@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/commerce-core-task/static/css/main.1058e1ff.css",
+    "main.js": "/commerce-core-task/static/js/main.3c39fb8c.js",
+    "static/media/ipl.png": "/commerce-core-task/static/media/ipl.6707e05589c5c48d8c14.png",
+    "static/media/logoipsum-logo-8.svg": "/commerce-core-task/static/media/logoipsum-logo-8.ab632e1fc5a46f9dc1f6028179d013f1.svg",
+    "static/media/cashback.svg": "/commerce-core-task/static/media/cashback.b29d38692b1e0701d6058428c250d88c.svg",
+    "static/media/customer-service.svg": "/commerce-core-task/static/media/customer-service.cc0ae8bd4492c65ed8f71a4247ca5697.svg",
+    "static/media/rating.svg": "/commerce-core-task/static/media/rating.65684673b6e34b5c136f52fac17b7c5d.svg",
+    "static/media/visa.svg": "/commerce-core-task/static/media/visa.d56fb50de2d0318beae39e695c402e9d.svg",
+    "static/media/shopping-bag.svg": "/commerce-core-task/static/media/shopping-bag.5322755e159826bd830636c7ffb25c2c.svg",
+    "static/media/mastercard.svg": "/commerce-core-task/static/media/mastercard.7d8b80bd9d689c61d1eaea7f28a78ad6.svg",
+    "static/media/diners-club.svg": "/commerce-core-task/static/media/diners-club.0cd4c67ba01b12d8b3fe484411c6c555.svg",
+    "static/media/Amex.svg": "/commerce-core-task/static/media/Amex.a375322d2a6b38908e58410cf9280c35.svg",
+    "static/media/lock.svg": "/commerce-core-task/static/media/lock.3c629ff5095302315f31da0763c10a5f.svg",
+    "index.html": "/commerce-core-task/index.html",
+    "static/media/discover.svg": "/commerce-core-task/static/media/discover.0519ecd5bc709a920c44d7a5264c2d37.svg",
+    "static/media/arrow-up.svg": "/commerce-core-task/static/media/arrow-up.740fe0cccddf66e4b232c420651fd4b3.svg",
+    "static/media/arrow-down.svg": "/commerce-core-task/static/media/arrow-down.4126531d2751c7f1ed15a34903d4f205.svg",
+    "main.1058e1ff.css.map": "/commerce-core-task/static/css/main.1058e1ff.css.map",
+    "main.3c39fb8c.js.map": "/commerce-core-task/static/js/main.3c39fb8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1058e1ff.css",
+    "static/js/main.3c39fb8c.js"
+  ]
+}
